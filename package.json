@@ -1,0 +1,23 @@
+{
+  "name": "rpglib",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000R\u0000P\u0000G\u0000L\u0000i\u0000b\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timoman7/RPGLib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timoman7/RPGLib/issues"
+  },
+  "homepage": "https://github.com/timoman7/RPGLib#readme",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}
