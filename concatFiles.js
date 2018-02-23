@@ -3,7 +3,7 @@ var concat = require('concat-files');
 concat([
   './src/sum.js',
   './src/div.js'
-], './build/RPGLib.js', function(err) {
+], './build', function(err) {
   if (err){
     throw err
   }
