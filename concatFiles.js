@@ -1,10 +1,8 @@
 var concat = require('concat-files');
 
 concat([
-  '/my/first/file',
-  '/another/file',
-  '/one/last/file'
-], '/build/destination', function(err) {
+  '/src/'
+], '/build/RPGLib.js', function(err) {
   if (err){
     throw err
   }
